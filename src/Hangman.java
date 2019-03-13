@@ -65,4 +65,8 @@ public class Hangman {
     public String getSecretWord() {
         return secretWord;
     }
+
+    public String getHint() {
+        return hint;
+    }
 }
